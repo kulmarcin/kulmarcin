@@ -1,4 +1,9 @@
 <h1 align="left">Portfolio</h1>
+
+<h3 align="left">Algorithms and Data Structures</h3>
+<ul>
+  <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA">freeCodeCamp Challenges</a></li>
+</ul>
 <h3 align="left">Node.js</h3>
 <ul>
   <li><a href="https://github.com/kulmarcin/sudokuSolver">Sudoku Solver</a></li>
