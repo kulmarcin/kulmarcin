@@ -4,6 +4,7 @@
 <ul>
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA">freeCodeCamp Challenges</a></li>
 </ul>
+
 <h3 align="left">Node.js</h3>
 <ul>
   <li><a href="https://github.com/kulmarcin/sudokuSolver">Sudoku Solver</a></li>
@@ -17,9 +18,16 @@
   <li><a href="https://github.com/kulmarcin/personalLibrary">Personal Library</a></li>
   <li><a href="https://github.com/kulmarcin/fileMetadataMicroservice">File Metadata Microservice</a></li>
 </ul>
+
 <h3 align="left">React</h3>
 <ul>
   <li><a href="https://github.com/kulmarcin/markdownPreviewer">Markdown Previewer</a></li>
   <li><a href="https://github.com/kulmarcin/clockReact">Clock</a></li>
   <li><a href="https://github.com/kulmarcin/calculatorReact">Calculator</a></li>
+</ul>
+
+<h3 align="left">jQuery</h3>
+<ul>
+  <li><a href="https://github.com/kulmarcin/colorGame">Color Game</a></li>
+  <li><a href="https://github.com/kulmarcin/toDoList">To Do List</a></li>
 </ul>
