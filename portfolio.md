@@ -24,6 +24,8 @@
   <li><a href="https://github.com/kulmarcin/markdownPreviewer">Markdown Previewer</a></li>
   <li><a href="https://github.com/kulmarcin/clockReact">Clock</a></li>
   <li><a href="https://github.com/kulmarcin/calculatorReact">Calculator</a></li>
+  <li><a href="https://github.com/kulmarcin/musicMachine">Music Machine</a></li>
+  <li><a href="https://github.com/kulmarcin/quoteMachine">Quote Machine</a></li>
 </ul>
 
 <h3 align="left">jQuery</h3>
