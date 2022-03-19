@@ -28,6 +28,11 @@
   <li><a href="https://github.com/kulmarcin/quoteMachine">Quote Machine</a></li>
 </ul>
 
+<h3 align="left">D3.js (Data Driven Documents)</h3>
+<ul>
+  <li><a href="https://github.com/kulmarcin/d3js-barChart/tree/main">Bar chart</a></li>
+</ul>
+
 <h3 align="left">jQuery</h3>
 <ul>
   <li><a href="https://github.com/kulmarcin/colorGame">Color Game</a></li>
