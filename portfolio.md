@@ -30,7 +30,11 @@
 
 <h3 align="left">D3.js (Data Driven Documents)</h3>
 <ul>
-  <li><a href="https://github.com/kulmarcin/d3js-barChart/tree/main">Bar chart</a></li>
+  <li><a href="https://github.com/kulmarcin/d3js-barChart">Bar chart</a></li>
+  <li><a href="https://github.com/kulmarcin/d3js-heatmap">Heat Map</a></li>
+  <li><a href="https://github.com/kulmarcin/d3js-choropleth">Choropleth Map</a></li>
+  <li><a href="https://github.com/kulmarcin/d3js-scatterplot">Scatterplot Graph</a></li>
+  <li><a href="https://github.com/kulmarcin/d3js-treemap">Treemap Diagram</a></li>
 </ul>
 
 <h3 align="left">jQuery</h3>
