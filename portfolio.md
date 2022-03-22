@@ -2,6 +2,7 @@
 
 <h3 align="left">Algorithms and Data Structures</h3>
 <ul>
+  <li><a href="https://github.com/kulmarcin/dataStructures">Implementation of basic data structures</a></li>
   <li><a href="https://github.com/kulmarcin/fccJavaScriptDSA">freeCodeCamp Challenges</a></li>
 </ul>
 
