@@ -24,6 +24,7 @@
 <ul>
   <li><a href="https://github.com/kulmarcin/chatApp">Chat App</a></li>
   <li><a href="https://github.com/kulmarcin/bitSlap">Company Website</a></li>
+  <li><a href="https://github.com/kulmarcin/pokedex">Pokedex App</a></li>
   <li><a href="https://github.com/kulmarcin/markdownPreviewer">Markdown Previewer</a></li>
   <li><a href="https://github.com/kulmarcin/clockReact">Clock</a></li>
   <li><a href="https://github.com/kulmarcin/calculatorReact">Calculator</a></li>
