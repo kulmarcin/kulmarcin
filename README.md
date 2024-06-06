@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">A passionate React/Node.js developer from Poland</h3>
+<h3 align="center">A passionate Java/React developer from Poland</h3>
 
-- 💬 Ask me about **react, node.js, typescript**
+- 💬 Ask me about **react, java, typescript**
 
 - 📫 Reach me **kul.marcin@gmail.com**
 
